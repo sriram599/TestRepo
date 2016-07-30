@@ -14,8 +14,12 @@ git push origin master
 
 Editing the file in GITHUB and now will use pull command to move new changes to Local repo
 
-used git pull origin master
+used ---->
 
-origin is remote repository
+git pull origin master
 
-master is our local default branch
+**origin is remote repository
+
+**master is our local default branch
+
+now updated the local repository from text pad and pushing to remote
