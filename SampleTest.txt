@@ -13,3 +13,9 @@ git commit -m "adding second time with commands"
 git push origin master
 
 Editing the file in GITHUB and now will use pull command to move new changes to Local repo
+
+used git pull origin master
+
+origin is remote repository
+
+master is our local default branch
