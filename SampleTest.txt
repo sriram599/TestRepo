@@ -2,3 +2,12 @@ This is a new text file for practice
 
 
 Updated with new changes
+
+
+This is the second commit.. gonna use below commands..
+
+First will run 
+
+git commit -m "adding second time with commands"
+
+git push origin master
